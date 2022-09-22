@@ -1,6 +1,9 @@
-var foods = {apples: 23, 
-  grapes: 507, 
-  eggs: 48}
+var foods = {
+  apples: 23,
+  grapes: 507,
+  eggs: 48
+};
+
 
 var person = { height: "6 ft", weight: "160 lbs" }
 
